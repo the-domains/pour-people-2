@@ -1,0 +1,28 @@
+name: Pour People 2
+favicon: null
+layout_spectrum: 0.7277752330992371
+typography_spectrum: 0.5398206321988255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15434649493545294
+  lightness: 0.4537900551222265
+  saturation: 0.9855949035845697
+  rhythmicContrast: 0.6379730706103146
+purpose: []
